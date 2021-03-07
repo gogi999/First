@@ -1,1 +1,2 @@
 This is test file - diary of programmer!
+Here programmer write all steps in process of programming.
